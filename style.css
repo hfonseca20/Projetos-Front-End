@@ -1,0 +1,29 @@
+#painel{
+
+	background-color: gray;
+}
+#rodape{
+	margin-bottom: 50px;
+}
+html{
+
+	font-size:1.6em;
+}
+h2{
+	font-size:1.6em;
+	margin-left: 15px;
+	display: inline;
+}
+#Aventura{
+	background-color: blue;
+}
+#Drama{
+	background-color: green;
+}
+#Ficção{
+	background-color: yellow;
+}
+ul{
+
+	margin-left: 15px;
+}

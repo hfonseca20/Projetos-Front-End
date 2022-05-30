@@ -1,0 +1,94 @@
+h1{
+	display: block;
+	text-align: center;
+	color: black;
+	text-decoration: underline;
+	font-family: 'Arial';
+	font-size: 2em;
+	font-weight: bolder;
+	margin-bottom: 15px;
+	
+}
+h2{
+	color: white;
+	padding-left: 20px;
+	padding-top: 8px;
+	padding-bottom: 5px;
+	border-bottom-left-radius: 25px;
+	border-top-right-radius: 35px;
+	font-weight: bolder;
+	font-size: 1.5em;
+	font-family: 'Arial';
+	background-color: rgba(11,10,247,0.7);
+	margin-bottom: 15px;
+}
+
+p{
+	text-align: left;
+	font-size: 1.1em;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	line-height: 2;
+}
+
+html{
+
+	background-image: url("praia.png");
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-position: center;
+  	background-size: 90%;
+}
+a{
+	padding-left: 20px;
+	padding-top: 8px;
+	padding-bottom: 5px;
+	border-bottom-left-radius: 25px;
+	border-top-right-radius: 30px;
+	background-color: rgba(0,0,0,0.4);
+	font-weight: bolder;
+	color: white;
+	text-decoration: none;
+}
+#banner{
+	float: left;
+	margin-bottom: 15px;
+	margin-right: 30px;
+	
+	height:25em; 
+	width:57em; 
+	border-radius: 1.2em;
+}
+#cabeçalho{
+	color: black;
+	margin-top: 15px;
+	margin-left: 200px;
+	font-size: 1.3em;
+}
+#topo{
+	margin-right: 200px;
+	padding-left: 20px;
+	padding-top: 8px;
+	padding-bottom: 5px;
+	border-bottom-left-radius: 25px;
+	border-top-right-radius: 50px;
+	background-color: rgba(0,0,240,0.2);
+}
+#estrofe{
+
+	padding-left: 20px;
+	padding-top: 8px;
+	padding-bottom: 5px;
+	border-bottom-left-radius: 25px;
+	border-top-right-radius: 50px;
+	background-color: rgba(0,0,0,0.4);
+	margin-top: 15px;
+}
+#texto{
+
+	color: white;
+	font-size: 1.2em;
+	margin-top: 35px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
